@@ -13,4 +13,7 @@ VARIABLE RULES:
   - Must start with a letter or an underscore
   - Can have numbers but can not start with one
 """
-print(1)
+x = 1             # int
+y = 2.15          # float
+name = 'Brad'     # string
+is_cool = True    # bool
