@@ -27,3 +27,7 @@ x, y , name, isCool = (1, 2.15, 'Brad', True)
 # Basic Math #
 a = x + y
 # print(a)
+
+
+# Check type # 
+print(type(a))
