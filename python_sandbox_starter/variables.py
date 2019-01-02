@@ -18,5 +18,12 @@ y = 2.15          # float
 name = 'Brad'     # string
 is_cool = True    # bool
 
-# Multiple assigment
+
+# Multiple assigment #
 x, y , name, isCool = (1, 2.15, 'Brad', True)
+# print(x, y, name, isCool)
+
+
+# Basic Math #
+a = x + y
+# print(a)
