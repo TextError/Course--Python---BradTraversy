@@ -17,3 +17,6 @@ x = 1             # int
 y = 2.15          # float
 name = 'Brad'     # string
 is_cool = True    # bool
+
+# Multiple assigment
+x, y , name, isCool = (1, 2.15, 'Brad', True)
