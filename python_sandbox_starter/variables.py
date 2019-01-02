@@ -31,3 +31,11 @@ a = x + y
 
 # Check type # 
 print(type(a))
+
+
+# Casting # 
+x = str(x)
+y = int(y)
+z = float(y)
+
+print(type(x))
